@@ -5,6 +5,7 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 ---
 **This webpage is still under construction, any information here is to be
 considered inaccurate as long as this warning is still present!**
+
 {:style="text-align:center;"}
 ![Birthdayboys](./photo.jpg)
 

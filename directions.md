@@ -3,7 +3,7 @@ layout: default
 title: Directions to and from Bellavista Relax Hotel
 ---
 
-Bellavista Relax Hotel is located in Viale Vittorio Emanuele III, 738056 Levico Terme (TN)
+Bellavista Relax Hotel is located in Viale Vittorio Emanuele III, 7 Levico Terme (TN)
 
 # How to reach Bellavista Relax Hotel
 

@@ -24,7 +24,8 @@ Rooms for supported participants are already booked but participants are
 required to confirm their accommodation at 
 
 [Bellavista Relax Hotel](https://www.bellavistarelax.it/)  
-Viale Vittorio Emanuele III, 738056 Levico Terme (TN)  
+Viale Vittorio Emanuele III, 7  
+38056 Levico Terme (TN)  
 Tel.:  +39 0461 706136  
 Fax:  +39 0461 706474  
 email:[bookingoffice@bellavistarelax.it](mailto:bookingoffice@bellavistarelax.it)

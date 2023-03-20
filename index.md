@@ -13,16 +13,31 @@ TBA
 
 # Logistics
 
-The conerence will take place from the 5th to the 9th of June 2023 at Bellavista
-Relax Hotel in Levico Terme.
+The conference will take place from the 5th to the 9th of June 2023 at Bellavista
+Relax Hotel in Levico Terme. 
+
+For practical reasons all participants should lodge at the conference venue; it
+will not be possible to provide refreshments and meals for guests sleeping
+elsewhere.
+
+Rooms for supported participants are already booked but participants are
+required to confirm their accommodation at 
 
 [Bellavista Relax Hotel](https://www.bellavistarelax.it/)  
-Viale Vittorio Emanuele III, 738056 Levico Terme (Tn)  
+Viale Vittorio Emanuele III, 738056 Levico Terme (TN)  
 Tel.:  +39 0461 706136  
 Fax:  +39 0461 706474  
 email:[bookingoffice@bellavistarelax.it](mailto:bookingoffice@bellavistarelax.it)
 
+[Here](directions.md) are detailed directions to reach the hotel.
+
 # Organizers
+
+- Kathryn Mulholland (University of Notre Dame)
+- Nicholas Ovenhouse (University of Minnesota)
+- Gus Schrader (Northwestern University)
+- Alexander Shapiro (University of Edinburgh)
+- Salvatore Stella (Università dell’Aquila)
 
 # Funding
 

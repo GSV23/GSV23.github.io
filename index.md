@@ -9,47 +9,17 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 # Participants
 
-- Semeon Artamonov*
-- Karin Baur
-- Marco Bertola*
-- Eric Bucher
-- Yurii Burman*
-- Leonid Chekhov
-- Alex Degtyarev
-- Philippe DiFrancesco
-- Anna Felikson
-- Vladimir Fock
-- Sergey Fomin
-- Christof Geiss
-- Misha Gekhtman
-- Rinat Kedem
-- Boris Khesin
-- Olya Kravchenko
-- Sergey Lando
-- Bernard Leclerc
-- John Machacek
-- Sophie Morier-Genoud
-- Brian Mullholland
-- Kathryn Mullholland
-- Nicolas Ovenhouse
-- Valentin Ovsienko
-- Pavlo Pylyavskyy
-- Vladimir Retakh
-- Dylan Rupel
-- Nicolau Saldanha
-- Gus Schrader
-- Sergey Shadrin*
-- Alexander Shapiro
-- Boris Shapiro
-- Michael Shapiro
-- Daniil Soskin
-- Salvatore Stella
-- Sergei Tabachnikov
-- Pavel Tumarkin
-- Alek Vainshtein
-- Dima Voloshyn
-- Harold Williams*
-- Milen Yakimov
+| Semeon Artamonov*      | Christof Geiss          | Nicolas Ovenhouse  | Daniil Soskin      
+| Karin Baur             | Misha Gekhtman          | Valentin Ovsienko  | Salvatore Stella
+| Marco Bertola*         | Rinat Kedem             | Pavlo Pylyavskyy   | Sergei Tabachnikov
+| Eric Bucher            | Boris Khesin            | Vladimir Retakh    | Pavel Tumarkin
+| Yurii Burman*          | Olya Kravchenko         | Dylan Rupel        | Alek Vainshtein
+| Leonid Chekhov         | Sergey Lando            | Nicolau Saldanha   | Dima Voloshyn
+| Alex Degtyarev         | Bernard Leclerc         | Gus Schrader       | Harold Williams*
+| Philippe DiFrancesco   | John Machacek           | Sergey Shadrin*    | Milen Yakimov
+| Anna Felikson          | Sophie Morier-Genoud    | Alexander Shapiro
+| Vladimir Fock          | Brian Mullholland       | Boris Shapiro
+| Sergey Fomin           | Kathryn Mullholland     | Michael Shapiro
 
 # Schedule
 TBA

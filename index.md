@@ -7,8 +7,7 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 {:style="text-align:center;"}
 ![Birthdayboys](./photo.jpg)
 
-<details>
-<summary>#Participants</summary>
+# Participants
 
 - Semeon Artamonov*
 - Karin Baur
@@ -51,7 +50,6 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 - Dima Voloshyn
 - Harold Williams*
 - Milen Yakimov
-</details>
 
 # Schedule
 TBA

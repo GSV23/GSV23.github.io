@@ -3,13 +3,53 @@ layout: default
 title: Cluster algebras and Poisson geometry
 description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro’s 60th and Alek Vainshtein’s 65th birthdays
 ---
-**This webpage is still under construction, any information here is to be
-considered inaccurate as long as this warning is still present!**
 
 {:style="text-align:center;"}
 ![Birthdayboys](./photo.jpg)
 
 # Participants
+
+- Semeon Artamonov*
+- Karin Baur
+- Marco Bertola*
+- Eric Bucher
+- Yurii Burman*
+- Leonid Chekhov
+- Alex Degtyarev
+- Philippe DiFrancesco
+- Anna Felikson
+- Vladimir Fock
+- Sergey Fomin
+- Christof Geiss
+- Misha Gekhtman
+- Rinat Kedem
+- Boris Khesin
+- Olya Kravchenko
+- Sergey Lando
+- Bernard Leclerc
+- John Machacek
+- Sophie Morier-Genoud
+- Brian Mullholland
+- Kathryn Mullholland
+- Nicolas Ovenhouse
+- Valentin Ovsienko
+- Pavlo Pylyavskyy
+- Vladimir Retakh
+- Dylan Rupel
+- Nicolau Saldanha
+- Gus Schrader
+- Sergey Shadrin*
+- Alexander Shapiro
+- Boris Shapiro
+- Michael Shapiro
+- Daniil Soskin
+- Salvatore Stella
+- Sergei Tabachnikov
+- Pavel Tumarkin
+- Alek Vainshtein
+- Dima Voloshyn
+- Harold Williams*
+- Milen Yakimov
 
 # Schedule
 TBA
@@ -21,10 +61,7 @@ Relax Hotel in Levico Terme.
 
 For practical reasons all participants should lodge at the conference venue; it
 will not be possible to provide refreshments and meals for guests sleeping
-elsewhere.
-
-Rooms for supported participants are already booked but participants are
-required to confirm their accommodation at 
+elsewhere. The hotel is booked from the 4th to the 9th of June.
 
 [Bellavista Relax Hotel](https://www.bellavistarelax.it/)  
 Viale Vittorio Emanuele III, 7  
@@ -33,12 +70,11 @@ Tel.:  +39 0461 706136
 Fax:  +39 0461 706474  
 email:[bookingoffice@bellavistarelax.it](mailto:bookingoffice@bellavistarelax.it)
 
-[Here](directions.md) are detailed directions to reach the hotel.
 
 # Organizers
 
 - Kathryn Mulholland (University of Notre Dame)
-- Nicholas Ovenhouse (University of Minnesota)
+- Nicholas Ovenhouse (Yale University)
 - Gus Schrader (Northwestern University)
 - Alexander Shapiro (University of Edinburgh)
 - Salvatore Stella (Università dell’Aquila)

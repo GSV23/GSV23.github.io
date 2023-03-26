@@ -8,6 +8,7 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 ![Birthdayboys](./photo.jpg)
 
 # Participants
+
 |  Semeon Artamonov*			  |  Sergey Fomin				    |  Brian Mullholland			      |	 Michael Shapiro
 |  Karin Baur					  |  Christof Geiss				    |  Nicolas Ovenhouse			      |	 Alexander Shapiro
 |  Marco Bertola*				  |  Misha Gekhtman				    |  Valentin Ovsienko			      |	 Daniil Soskin

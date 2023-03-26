@@ -9,17 +9,18 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 # Participants
 
-| Semeon Artamonov*      | Christof Geiss          | Nicolas Ovenhouse  | Daniil Soskin      
-| Karin Baur             | Misha Gekhtman          | Valentin Ovsienko  | Salvatore Stella
-| Marco Bertola*         | Rinat Kedem             | Pavlo Pylyavskyy   | Sergei Tabachnikov
-| Eric Bucher            | Boris Khesin            | Vladimir Retakh    | Pavel Tumarkin
-| Yurii Burman*          | Olya Kravchenko         | Dylan Rupel        | Alek Vainshtein
-| Leonid Chekhov         | Sergey Lando            | Nicolau Saldanha   | Dima Voloshyn
-| Alex Degtyarev         | Bernard Leclerc         | Gus Schrader       | Harold Williams*
-| Philippe DiFrancesco   | John Machacek           | Sergey Shadrin*    | Milen Yakimov
-| Anna Felikson          | Sophie Morier-Genoud    | Alexander Shapiro
-| Vladimir Fock          | Brian Mullholland       | Boris Shapiro
-| Sergey Fomin           | Kathryn Mullholland     | Michael Shapiro
+
+| Semeon Artamonov*				  | Sergey Fomin				    | Brian Mullholland				      | Boris Shapiro
+| Karin Baur					  | Christof Geiss				    | Nicolas Ovenhouse				      | Michael Shapiro
+| Marco Bertola*				  | Misha Gekhtman				    | Valentin Ovsienko				      | Daniil Soskin
+| Eric Bucher					  | Rinat Kedem					    | Pavlo Pylyavskyy				      | Salvatore Stella
+| Yurii Burman*					  | Boris Khesin				    | Vladimir Retakh				      | Sergei Tabachnikov
+| Giovanni Cerulli Irelli		  | Olya Kravchenko				    | Dylan Rupel		    		      | Pavel Tumarkin
+| Leonid Chekhov				  | Sergey Lando				    | Nicolau Saldanha				      | Alek Vainshtein
+| Alex Degtyarev				  | Bernard Leclerc				    | Gus Schrader	    			      | Dima Voloshyn
+| Philippe DiFrancesco			  | John Machacek				    | Sergey Shadrin*				      | Harold Williams*
+| Anna Felikson					  | Sophie Morier-Genoud			| Alexander Shapiro				      | Milen Yakimov
+| Vladimir Fock					  | Kathryn Mullholland
 
 # Schedule
 TBA

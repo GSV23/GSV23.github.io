@@ -8,19 +8,17 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 ![Birthdayboys](./photo.jpg)
 
 # Participants
-
-
-| Semeon Artamonov*				  | Sergey Fomin				    | Brian Mullholland				      | Boris Shapiro
-| Karin Baur					  | Christof Geiss				    | Nicolas Ovenhouse				      | Michael Shapiro
-| Marco Bertola*				  | Misha Gekhtman				    | Valentin Ovsienko				      | Daniil Soskin
-| Eric Bucher					  | Rinat Kedem					    | Pavlo Pylyavskyy				      | Salvatore Stella
-| Yurii Burman*					  | Boris Khesin				    | Vladimir Retakh				      | Sergei Tabachnikov
-| Giovanni Cerulli Irelli		  | Olya Kravchenko				    | Dylan Rupel		    		      | Pavel Tumarkin
-| Leonid Chekhov				  | Sergey Lando				    | Nicolau Saldanha				      | Alek Vainshtein
-| Alex Degtyarev				  | Bernard Leclerc				    | Gus Schrader	    			      | Dima Voloshyn
-| Philippe DiFrancesco			  | John Machacek				    | Sergey Shadrin*				      | Harold Williams*
-| Anna Felikson					  | Sophie Morier-Genoud			| Alexander Shapiro				      | Milen Yakimov
-| Vladimir Fock					  | Kathryn Mullholland
+|  Semeon Artamonov*			  |  Sergey Fomin				    |  Brian Mullholland			      |	 Michael Shapiro
+|  Karin Baur					  |  Christof Geiss				    |  Nicolas Ovenhouse			      |	 Alexander Shapiro
+|  Marco Bertola*				  |  Misha Gekhtman				    |  Valentin Ovsienko			      |	 Daniil Soskin
+|  Eric Bucher					  |  Rinat Kedem				    |  Pierre-Guy Plamondon			      |	 Salvatore Stella
+|  Yurii Burman*				  |  Boris Khesin				    |  Pavlo Pylyavskyy				      |	 Sergei Tabachnikov
+|  Giovanni Cerulli Irelli		  |  Olya Kravchenko			    |  Vladimir Retakh				      |	 Pavel Tumarkin
+|  Leonid Chekhov				  |  Sergey Lando				    |  Dylan Rupel		    		      |	 Alek Vainshtein
+|  Alex Degtyarev				  |  Bernard Leclerc			    |  Nicolau Saldanha				      |	 Dima Voloshyn
+|  Philippe DiFrancesco			  |  John Machacek				    |  Gus Schrader			    	      |	 Harold Williams*
+|  Anna Felikson				  |  Sophie Morier-Genoud		    |  Sergey Shadrin*				      |	 Milen Yakimov
+|  Vladimir Fock				  |  Kathryn Mullholland		    |  Boris Shapiro
 
 # Schedule
 TBA

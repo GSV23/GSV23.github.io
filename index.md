@@ -9,7 +9,7 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 # Participants
 
-|  Semeon Artamonov*			  |  Sergey Fomin				    |  Brian Mullholland			      |	 Michael Shapiro
+|  Semeon Artamonov*			  |  Sergey Fomin				    |  Brian Mulholland			      |	 Michael Shapiro
 |  Karin Baur					  |  Christof Geiss				    |  Nicolas Ovenhouse			      |	 Alexander Shapiro
 |  Marco Bertola*				  |  Misha Gekhtman				    |  Valentin Ovsienko			      |	 Daniil Soskin
 |  Eric Bucher					  |  Rinat Kedem				    |  Pierre-Guy Plamondon			      |	 Salvatore Stella
@@ -19,7 +19,7 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 |  Alex Degtyarev				  |  Bernard Leclerc			    |  Nicolau Saldanha				      |	 Dima Voloshyn
 |  Philippe DiFrancesco			  |  John Machacek				    |  Gus Schrader			    	      |	 Harold Williams*
 |  Anna Felikson				  |  Sophie Morier-Genoud		    |  Sergey Shadrin*				      |	 Milen Yakimov
-|  Vladimir Fock				  |  Kathryn Mullholland		    |  Boris Shapiro
+|  Vladimir Fock				  |  Kathryn Mulholland		    |  Boris Shapiro
 
 # Schedule
 TBA

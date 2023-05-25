@@ -7,22 +7,29 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 {:style="text-align:center;"}
 ![Birthdayboys](./photo.jpg)
 
+# Schedule
+
+|                | Monday                             						   | Tuesday       								| Wednesday      							| Thursday            | Friday 
+|9:30-10:30      | [Ovsienko](abstracts.html#ovsienko)                         | [Leclerc](abstracts.html#leclerc) 	    	| [Tabachnikov](abstracts.html#tabachnikov) | [Plamondon		](abstracts.html#plamondon		)    | [Lando](abstracts.html#lando)
+|11:00-12:00     | [Felikson](abstracts.html#felikson)                         | [Williams](abstracts.html#williams)    	| [Khesin](abstracts.html#khesin)       	| [Geiss			](abstracts.html#geiss			)    | [Burman](abstracts.html#burman)
+|12:00-14:00     | Lunch        						                       | Lunch         								| Lunch          							| Lunch				
+|14:00-15:00     | [Fomin](abstracts.html#fomin)                               | [Yakimov](abstracts.html#yakimov)     		|                							| [Baur](abstracts.html#baur)
+|15:30-16:30     | [Fock](abstracts.html#fock)                                 | [Di Francesco](abstracts.html#di-francesco)|                							| [Cerulli Irelli](abstracts.html#cerulli-irelli)
+|17:00-17:30     |                                    						   |               								|                							| B. Shapiro
+
+# [Titles and abstracts](abstracts.html)
+
 # Participants
 
-|  Semeon Artamonov*			  |  Sergey Fomin				    |  Brian Mulholland			      |	 Michael Shapiro
-|  Karin Baur					  |  Christof Geiss				    |  Nicolas Ovenhouse			      |	 Alexander Shapiro
-|  Marco Bertola*				  |  Misha Gekhtman				    |  Valentin Ovsienko			      |	 Daniil Soskin
-|  Eric Bucher					  |  Rinat Kedem				    |  Pierre-Guy Plamondon			      |	 Salvatore Stella
-|  Yurii Burman*				  |  Boris Khesin				    |  Pavlo Pylyavskyy				      |	 Sergei Tabachnikov
-|  Giovanni Cerulli Irelli		  |  Olya Kravchenko			    |  Vladimir Retakh				      |	 Pavel Tumarkin
-|  Leonid Chekhov				  |  Sergey Lando				    |  Dylan Rupel		    		      |	 Alek Vainshtein
-|  Alex Degtyarev				  |  Bernard Leclerc			    |  Nicolau Saldanha				      |	 Dima Voloshyn
-|  Philippe DiFrancesco			  |  John Machacek				    |  Gus Schrader			    	      |	 Harold Williams*
-|  Anna Felikson				  |  Sophie Morier-Genoud		    |  Sergey Shadrin*				      |	 Milen Yakimov
-|  Vladimir Fock				  |  Kathryn Mulholland		    |  Boris Shapiro
-
-# Schedule
-TBA
+| Karin Baur				  | Sergey Fomin	  | Brian Mullholland	  | Michael Shapiro
+| Marco Bertola               | Christof Geiss    | Kathryn Mullholland   | Daniil Soskin
+| Eric Bucher                 | Misha Gekhtman    | Nicolas Ovenhouse     | Salvatore Stella
+| Yurii Burman                | Rinat Kedem       | Valentin Ovsienko     | Sergei Tabachnikov
+| Giovanni Cerulli Irelli     | Boris Khesin      | Pierre-Guy Plamondon  | Pavel Tumarkin
+| Leonid Chekhov              | Olya Kravchenko   | Nicolau Saldanha      | Dima Voloshyn
+| Philippe DiFrancesco        | Sergey Lando      | Gus Schrader          | Alek Vainshtein
+| Anna Felikson               | Bernard Leclerc   | Alexander Shapiro     | Harold Williams
+| Vladimir Fock               | John Machacek     | Boris Shapiro         | Milen Yakimov
 
 # Logistics
 

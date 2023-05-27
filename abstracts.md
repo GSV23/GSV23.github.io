@@ -136,7 +136,7 @@ the plane. This is a joint work with C.Yang and H.Wang.
 
 ---
 
-# Felikson
+# Felikson Tumarkin
 
 Title: 3D Farey graph from ideal tetrahedra
 

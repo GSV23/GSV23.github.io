@@ -276,6 +276,16 @@ Giulio Salvatori and Hugh Thomas.
 
 # Williams
 
-Title: TBA
+Title: Rigidity and Integrability in Monoidal Categorifications
 
-Abstract: TBA
+Abstract: A familiar theme in cluster algebras is that of discrete integrable
+systems being realizable as sequences of cluster transformations. In this talk
+we will discuss this theme through the lens of tensor categories related to
+Coulomb branches of 4d gauge theories, introduced in joint work with Sabin
+Cautis. The rigidity of these categories, that is the existence of left and
+right duals, gives rise to a canonical discrete dynamical system on their
+Grothendieck ring. We explain how the geometry behind these duals guarantees
+that these systems are always integrable, and illustrate in the simplest
+examples that they are indeed cluster integrable systems (though this remains a
+conjecture in general)
+

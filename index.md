@@ -21,16 +21,16 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 # Participants
 
-| Karin Baur				  | Sergey Fomin	  | Brian Mullholland	  | Michael Shapiro
-| Marco Bertola               | Christof Geiss    | Kathryn Mullholland   | Daniil Soskin
-| Eric Bucher                 | Misha Gekhtman    | Nicolas Ovenhouse     | Salvatore Stella
-| Yurii Burman                | Rinat Kedem       | Valentin Ovsienko     | Sergei Tabachnikov
-| Giovanni Cerulli Irelli     | Boris Khesin      | Pierre-Guy Plamondon  | Pavel Tumarkin
-| Leonid Chekhov              | Olya Kravchenko   | Nicolau Saldanha      | Dima Voloshyn
-| Philippe DiFrancesco        | Sergey Lando      | Gus Schrader          | Alek Vainshtein
-| Anna Felikson               | Bernard Leclerc   | Alexander Shapiro     | Harold Williams
-| Vladimir Fock               | John Machacek     | Boris Shapiro         | Milen Yakimov
-
+| Karin Baur				  | Christof Geiss      | Kathryn Mullholland  | Daniil Soskin                            
+| Marco Bertola               | Misha Gekhtman      | Nicolas Ovenhouse    | Salvatore Stella    
+| Eric Bucher                 | Rinat Kedem         | Valentin Ovsienko    | Sergei Tabachnikov  
+| Yurii Burman                | Boris Khesin        | Pierre-Guy Plamondon | Pavel Tumarkin      
+| Giovanni Cerulli Irelli     | Olya Kravchenko     | Nicolau Saldanha     | Dima Voloshyn       
+| Philippe DiFrancesco        | Sergey Lando        | Gus Schrader         | Alek Vainshtein     
+| Anna Felikson               | Bernard Leclerc     | Alexander Shapiro    | Harold Williams     
+| Vladimir Fock               | John Machacek       | Boris Shapiro        | Milen Yakimov       
+| Sergey Fomin	              | Brian Mullholland	| Michael Shapiro      
+     
 # Logistics
 
 The conference will take place from the 5th to the 9th of June 2023 at Bellavista

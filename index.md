@@ -10,8 +10,8 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 # Schedule
 
 |                | Monday                             						   | Tuesday       								| Wednesday      							| Thursday            | Friday 
-|9:30-10:30      | [Ovsienko](abstracts.html#ovsienko)                         | [Leclerc](abstracts.html#leclerc) 	    	| [Tabachnikov](abstracts.html#tabachnikov) | [Plamondon		](abstracts.html#plamondon		)    | [Lando](abstracts.html#lando)
-|11:00-12:00     | [Felikson Tumarkin](abstracts.html#felikson-tumarkin)       | [Williams](abstracts.html#williams)    	| [Khesin](abstracts.html#khesin)       	| [Geiss			](abstracts.html#geiss			)    | [Burman](abstracts.html#burman)
+|9:30-10:30      | [Ovsienko](abstracts.html#ovsienko)                         | [Leclerc](abstracts.html#leclerc) 	    	| [Lando](abstracts.html#lando)             | [Plamondon		](abstracts.html#plamondon		)    | [Burman](abstracts.html#burman)
+|11:00-12:00     | [Felikson Tumarkin](abstracts.html#felikson-tumarkin)       | [Williams](abstracts.html#williams)    	| [Khesin](abstracts.html#khesin)       	| [Geiss			](abstracts.html#geiss			)    | 
 |12:00-14:00     | Lunch        						                       | Lunch         								| Lunch          							| Lunch				
 |14:00-15:00     | [Fomin](abstracts.html#fomin)                               | [Yakimov](abstracts.html#yakimov)     		|                							| [Baur](abstracts.html#baur)
 |15:30-16:30     | [Fock](abstracts.html#fock)                                 | [Di Francesco](abstracts.html#di-francesco)|                							| [Cerulli Irelli](abstracts.html#cerulli-irelli)
@@ -23,13 +23,13 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 | Karin Baur				  | Christof Geiss      | Kathryn Mullholland  | Daniil Soskin                            
 | Marco Bertola               | Misha Gekhtman      | Nicolas Ovenhouse    | Salvatore Stella    
-| Eric Bucher                 | Rinat Kedem         | Valentin Ovsienko    | Sergei Tabachnikov  
-| Yurii Burman                | Boris Khesin        | Pierre-Guy Plamondon | Pavel Tumarkin      
-| Giovanni Cerulli Irelli     | Olya Kravchenko     | Nicolau Saldanha     | Dima Voloshyn       
-| Philippe DiFrancesco        | Sergey Lando        | Gus Schrader         | Alek Vainshtein     
-| Anna Felikson               | Bernard Leclerc     | Alexander Shapiro    | Harold Williams     
-| Vladimir Fock               | John Machacek       | Boris Shapiro        | Milen Yakimov       
-| Sergey Fomin	              | Brian Mullholland	| Michael Shapiro      
+| Eric Bucher                 | Rinat Kedem         | Valentin Ovsienko    | Pavel Tumarkin      
+| Yurii Burman                | Boris Khesin        | Pierre-Guy Plamondon | Dima Voloshyn       
+| Giovanni Cerulli Irelli     | Olya Kravchenko     | Nicolau Saldanha     | Alek Vainshtein     
+| Philippe DiFrancesco        | Sergey Lando        | Gus Schrader         | Harold Williams     
+| Anna Felikson               | Bernard Leclerc     | Alexander Shapiro    | Milen Yakimov       
+| Vladimir Fock               | John Machacek       | Boris Shapiro        | 
+| Sergey Fomin	              | Brian Mullholland	| Michael Shapiro      |
      
 # Logistics
 

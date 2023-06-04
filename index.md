@@ -9,13 +9,13 @@ description: A conference in honor of Michael Gekhtman’s 60th, Michael Shapiro
 
 # Schedule
 
-|                | Monday                             						   | Tuesday       								| Wednesday      							| Thursday            | Friday 
-|9:30-10:30      | [Ovsienko](abstracts.html#ovsienko)                         | [Leclerc](abstracts.html#leclerc) 	    	| [Tabachnikov](abstracts.html#tabachnikov) | [Plamondon		](abstracts.html#plamondon		)    | [Lando](abstracts.html#lando)
-|11:00-12:00     | [Felikson Tumarkin](abstracts.html#felikson-tumarkin)       | [Williams](abstracts.html#williams)    	| [Khesin](abstracts.html#khesin)       	| [Geiss			](abstracts.html#geiss			)    | [Burman](abstracts.html#burman)
-|12:00-14:00     | Lunch        						                       | Lunch         								| Lunch          							| Lunch				
-|14:00-15:00     | [Fomin](abstracts.html#fomin)                               | [Yakimov](abstracts.html#yakimov)     		|                							| [Baur](abstracts.html#baur)
-|15:30-16:30     | [Fock](abstracts.html#fock)                                 | [Di Francesco](abstracts.html#di-francesco)|                							| [Cerulli Irelli](abstracts.html#cerulli-irelli)
-|17:00-17:30     |                                    						   |               								|                							| B. Shapiro
+|                | Monday                             						   | Tuesday       								| Wednesday      							    | Thursday                                      | Friday 
+|9:30-10:30      | [Ovsienko](abstracts.html#ovsienko)                         | [Leclerc](abstracts.html#leclerc) 	    	| [Di Francesco](abstracts.html#di-francesco)   | [Plamondon](abstracts.html#plamondon)         | [Lando](abstracts.html#lando)
+|11:00-12:00     | [Felikson Tumarkin](abstracts.html#felikson-tumarkin)       | [Williams](abstracts.html#williams)    	| [Khesin](abstracts.html#khesin)           	| [Geiss](abstracts.html#geiss)                 | [Burman](abstracts.html#burman)
+|12:00-14:00     | Lunch        						                       | Lunch         								| Lunch          						    	| Lunch				                            | Lunch
+|14:00-15:00     | [Fomin](abstracts.html#fomin)                               | [Yakimov](abstracts.html#yakimov)     		|                							    | [Baur](abstracts.html#baur)
+|15:30-16:30     | [Fock](abstracts.html#fock)                                 | [Tabachnikov](abstracts.html#tabachnikov)  |                							    | [Cerulli Irelli](abstracts.html#cerulli-irelli)
+|18:45-19:30     |                                    						   |               								|                							    | B. Shapiro
 
 # [Titles and abstracts](abstracts.html)
 
